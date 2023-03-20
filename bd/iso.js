@@ -1,0 +1,1 @@
+{"name":"bangladesh","short":"bd","flag":"https:\/\/flagcdn.com\/bd.svg","native":"Bangladesh","lang":{"short":"bn","name":"bengali","native":"\u09ac\u09be\u0982\u09b2\u09be"},"dol":{"symb":"\u09f3","short":"bdt","name":"Bangladeshi taka"}}

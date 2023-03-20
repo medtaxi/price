@@ -1,0 +1,1 @@
+{"bhd":{"day":{"base":2,"kilometer":1,"hour":3.5},"wal":"bhd"}}

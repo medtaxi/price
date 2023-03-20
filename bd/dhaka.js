@@ -1,0 +1,1 @@
+{"bdt":{"day":{"base":100,"kilometer":40,"hour":300},"wal":"bdt"}}

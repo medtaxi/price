@@ -1,0 +1,1 @@
+{"name":"brazil","short":"br","flag":"https:\/\/flagcdn.com\/br.svg","native":"Brasil","lang":{"short":"pt","name":"portuguese","native":"Portugu\u00eas"},"dol":{"symb":"r$","short":"brl","name":"Brazilian real"}}

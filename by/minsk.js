@@ -1,0 +1,1 @@
+{"byn":{"day":{"base":3.9900000000000002,"kilometer":0.5,"hour":15},"wal":"byn"}}

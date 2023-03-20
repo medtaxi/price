@@ -1,0 +1,1 @@
+{"name":"brunei darussalam","short":"bn","flag":"https:\/\/flagcdn.com\/bn.svg","native":"Negara Brunei Darussalam","lang":{"short":"ms","name":"malay","native":"bahasa Melayu"},"dol":{"symb":"$","short":"bnd","name":"Brunei dollar"}}

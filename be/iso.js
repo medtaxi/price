@@ -1,0 +1,1 @@
+{"name":"belgium","short":"be","flag":"https:\/\/flagcdn.com\/be.svg","native":"Belgi\u00eb","lang":{"short":"nl","name":"dutch","native":"Nederlands"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

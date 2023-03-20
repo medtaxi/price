@@ -1,0 +1,1 @@
+{"name":"bahamas","short":"bs","flag":"https:\/\/flagcdn.com\/bs.svg","native":"Bahamas","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"bsd","name":"Bahamian dollar"}}

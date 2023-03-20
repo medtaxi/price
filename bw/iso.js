@@ -1,0 +1,1 @@
+{"name":"botswana","short":"bw","flag":"https:\/\/flagcdn.com\/bw.svg","native":"Botswana","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"p","short":"bwp","name":"Botswana pula"}}

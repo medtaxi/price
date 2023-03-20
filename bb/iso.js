@@ -1,0 +1,1 @@
+{"name":"barbados","short":"bb","flag":"https:\/\/flagcdn.com\/bb.svg","native":"Barbados","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"bbd","name":"Barbadian dollar"}}

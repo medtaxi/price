@@ -1,0 +1,1 @@
+{"name":"bermuda","short":"bm","flag":"https:\/\/flagcdn.com\/bm.svg","native":"Bermuda","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"bmd","name":"Bermudian dollar"}}

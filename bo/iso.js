@@ -1,0 +1,1 @@
+{"name":"bolivia (plurinational state of)","short":"bo","flag":"https:\/\/flagcdn.com\/bo.svg","native":"Bolivia","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"bs.","short":"bob","name":"Bolivian boliviano"}}

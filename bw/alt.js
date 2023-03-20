@@ -1,0 +1,1 @@
+{"bwp":{"wal":"bwp","day":{"base":8,"kilometer":30,"hour":50}}}

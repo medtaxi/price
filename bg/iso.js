@@ -1,0 +1,1 @@
+{"name":"bulgaria","short":"bg","flag":"https:\/\/flagcdn.com\/bg.svg","native":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f","lang":{"short":"bg","name":"bulgarian","native":"\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a"},"dol":{"symb":"\u043b\u0432","short":"bgn","name":"Bulgarian lev"}}

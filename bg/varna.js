@@ -1,0 +1,1 @@
+{"bgn":{"day":{"base":2,"kilometer":1.1000000000000001,"hour":21},"wal":"bgn"}}

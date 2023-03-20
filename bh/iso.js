@@ -1,0 +1,1 @@
+{"name":"bahrain","short":"bh","flag":"https:\/\/flagcdn.com\/bh.svg","native":"\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":".\u062f.\u0628","short":"bhd","name":"Bahraini dinar"}}
