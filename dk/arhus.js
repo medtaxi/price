@@ -1,0 +1,1 @@
+{"dkk":{"day":{"base":50,"kilometer":10,"hour":435},"wal":"dkk"}}

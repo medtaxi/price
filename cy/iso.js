@@ -1,0 +1,1 @@
+{"name":"cyprus","short":"cy","flag":"https:\/\/flagcdn.com\/cy.svg","native":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2","lang":{"short":"el","name":"greek (modern)","native":"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

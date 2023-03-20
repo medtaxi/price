@@ -1,0 +1,1 @@
+{"name":"germany","short":"de","flag":"https:\/\/flagcdn.com\/de.svg","native":"Deutschland","lang":{"short":"de","name":"german","native":"Deutsch"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

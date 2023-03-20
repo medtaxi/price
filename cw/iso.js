@@ -1,0 +1,1 @@
+{"name":"cura\u00e7ao","short":"cw","flag":"https:\/\/flagcdn.com\/cw.svg","native":"Cura\u00e7ao","lang":{"short":"nl","name":"dutch","native":"Nederlands"},"dol":{"symb":"\u0192","short":"ang","name":"Netherlands Antillean guilder"}}

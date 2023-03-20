@@ -1,0 +1,1 @@
+{"dkk":{"day":{"base":41.5,"kilometer":9.5,"hour":406.5},"night":{"base":44,"kilometer":10.699999999999999,"hour":480}}}

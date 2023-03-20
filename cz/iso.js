@@ -1,0 +1,1 @@
+{"name":"czech republic","short":"cz","flag":"https:\/\/flagcdn.com\/cz.svg","native":"\u010cesk\u00e1 republika","lang":{"short":"cs","name":"czech","native":"\u010de\u0161tina"},"dol":{"symb":"k\u010d","short":"czk","name":"Czech koruna"}}

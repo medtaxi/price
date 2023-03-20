@@ -1,0 +1,1 @@
+{"eur":{"day":{"base":3,"miMa":[{"pr":"1.8","min":"1","max":"10"}],"each":1.7,"hour":30},"wal":"eur"}}

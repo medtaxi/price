@@ -1,0 +1,1 @@
+{"name":"cuba","short":"cu","flag":"https:\/\/flagcdn.com\/cu.svg","native":"Cuba","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"cuc","name":"Cuban convertible peso"}}

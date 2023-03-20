@@ -1,0 +1,1 @@
+{"czk":{"day":{"base":35,"kilometer":30,"hour":350},"wal":"czk"}}

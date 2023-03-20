@@ -1,0 +1,1 @@
+{"ang":{"day":{"base":25,"kilometer":6,"hour":90.090000000000003},"wal":"ang"}}

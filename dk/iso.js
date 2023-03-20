@@ -1,0 +1,1 @@
+{"name":"denmark","short":"dk","flag":"https:\/\/flagcdn.com\/dk.svg","native":"Danmark","lang":{"short":"da","name":"danish","native":"dansk"},"dol":{"symb":"kr","short":"dkk","name":"Danish krone"}}
