@@ -1,0 +1,1 @@
+{"name":"united kingdom","short":"uk","flag":"https://flagcdn.com/gb.svg","native":"united kingdom","lang":{"short":"en","name":"english","native":"english"},"dol":{"symb":"£","short":"gbp","name":"british pound"}}
