@@ -1,0 +1,1 @@
+{"name":"canada","short":"ca","flag":"https:\/\/flagcdn.com\/ca.svg","native":"Canada","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"cad","name":"Canadian dollar"}}

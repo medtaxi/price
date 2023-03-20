@@ -1,0 +1,1 @@
+{"clp":{"day":{"base":350,"kilometer":1000,"hour":8400},"wal":"clp"}}

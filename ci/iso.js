@@ -1,0 +1,1 @@
+{"name":"ivory coast","short":"ci","flag":"https:\/\/flagcdn.com\/ci.svg","native":"C\u00f4te d'Ivoire","lang":{"short":"fr","name":"french","native":"fran\u00e7ais"},"dol":{"symb":"fr","short":"xof","name":"West African CFA franc"}}

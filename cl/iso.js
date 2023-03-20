@@ -1,0 +1,1 @@
+{"name":"chile","short":"cl","flag":"https:\/\/flagcdn.com\/cl.svg","native":"Chile","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"clp","name":"Chilean peso"}}

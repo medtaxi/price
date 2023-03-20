@@ -1,0 +1,1 @@
+{"name":"switzerland","short":"ch","flag":"https:\/\/flagcdn.com\/ch.svg","native":"Schweiz","lang":{"short":"de","name":"german","native":"Deutsch"},"dol":{"symb":"fr","short":"chf","name":"Swiss franc"}}

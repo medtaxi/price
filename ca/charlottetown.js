@@ -1,0 +1,1 @@
+{"cad":{"day":{"base":7.1200000000000001,"kilometer":3,"hour":30},"wal":"cad"}}

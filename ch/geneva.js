@@ -1,0 +1,1 @@
+{"chf":{"day":{"base":6,"kilometer":3,"hour":47.5},"wal":"chf"}}
