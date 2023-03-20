@@ -1,1 +1,1 @@
-
+{"name":"united states of america","short":"us","flag":"https:\/\/flagcdn.com\/us.svg","native":"United States","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"usd","name":"United States dollar"}}
