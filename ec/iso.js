@@ -1,0 +1,1 @@
+{"name":"ecuador","short":"ec","flag":"https:\/\/flagcdn.com\/ec.svg","native":"Ecuador","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"usd","name":"United States dollar"}}

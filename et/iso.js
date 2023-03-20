@@ -1,0 +1,1 @@
+{"name":"ethiopia","short":"et","flag":"https:\/\/flagcdn.com\/et.svg","native":"\u12a2\u1275\u12ee\u1335\u12eb","lang":{"short":"am","name":"amharic","native":"\u12a0\u121b\u122d\u129b"},"dol":{"symb":"br","short":"etb","name":"Ethiopian birr"}}

@@ -1,0 +1,1 @@
+{"egp":{"day":{"base":5.5,"kilometer":2.5,"hour":40},"wal":"egp"}}

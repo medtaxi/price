@@ -1,0 +1,1 @@
+{"dzd":{"day":{"base":65,"kilometer":40,"hour":600},"wal":"dzd"}}

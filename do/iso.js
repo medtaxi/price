@@ -1,0 +1,1 @@
+{"name":"dominican republic","short":"do","flag":"https:\/\/flagcdn.com\/do.svg","native":"Rep\u00fablica Dominicana","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"dop","name":"Dominican peso"}}

@@ -1,0 +1,1 @@
+{"name":"egypt","short":"eg","flag":"https:\/\/flagcdn.com\/eg.svg","native":"\u0645\u0635\u0631\u200e","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u00a3","short":"egp","name":"Egyptian pound"}}

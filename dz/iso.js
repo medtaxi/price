@@ -1,0 +1,1 @@
+{"name":"algeria","short":"dz","flag":"https:\/\/flagcdn.com\/dz.svg","native":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u062f.\u062c","short":"dzd","name":"Algerian dinar"}}

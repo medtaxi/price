@@ -1,0 +1,1 @@
+{"egp":{"day":{"base":8,"kilometer":3.77,"hour":45}}}

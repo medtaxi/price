@@ -1,0 +1,1 @@
+{"name":"estonia","short":"ee","flag":"https:\/\/flagcdn.com\/ee.svg","native":"Eesti","lang":{"short":"et","name":"estonian","native":"eesti"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

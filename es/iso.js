@@ -1,0 +1,1 @@
+{"name":"spain","short":"es","flag":"https:\/\/flagcdn.com\/es.svg","native":"Espa\u00f1a","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}
