@@ -1,0 +1,1 @@
+{"thb":{"day":{"base":50,"kilometer":30,"hour":100},"wal":"thb"}}

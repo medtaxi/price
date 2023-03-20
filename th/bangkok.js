@@ -1,0 +1,1 @@
+{"thb":{"baseKm":2,"day":{"base":35,"kilometer":23,"hour":127.5}}}

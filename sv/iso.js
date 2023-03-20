@@ -1,0 +1,1 @@
+{"name":"el salvador","short":"sv","flag":"https:\/\/flagcdn.com\/sv.svg","native":"El Salvador","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"usd","name":"United States dollar"}}

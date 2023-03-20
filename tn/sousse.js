@@ -1,0 +1,1 @@
+{"tnd":{"day":{"base":0.57999999999999996,"kilometer":1.5,"hour":10},"wal":"tnd"}}

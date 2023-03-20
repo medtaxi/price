@@ -1,0 +1,1 @@
+{"name":"syrian arab republic","short":"sy","flag":"https:\/\/flagcdn.com\/sy.svg","native":"\u0633\u0648\u0631\u064a\u0627","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u00a3","short":"syp","name":"Syrian pound"}}

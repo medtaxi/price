@@ -1,0 +1,1 @@
+{"name":"tunisia","short":"tn","flag":"https:\/\/flagcdn.com\/tn.svg","native":"\u062a\u0648\u0646\u0633","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u062f.\u062a","short":"tnd","name":"Tunisian dinar"}}
