@@ -1,0 +1,1 @@
+{"name":"japan","short":"jp","flag":"https:\/\/flagcdn.com\/jp.svg","native":"\u65e5\u672c","lang":{"short":"ja","name":"japanese","native":"\u65e5\u672c\u8a9e (\u306b\u307b\u3093\u3054)"},"dol":{"symb":"\u00a5","short":"jpy","name":"Japanese yen"}}

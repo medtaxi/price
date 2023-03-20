@@ -1,0 +1,1 @@
+{"jpy":{"day":{"base":540,"kilometer":389,"hour":3250},"wal":"jpy"}}

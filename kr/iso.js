@@ -1,0 +1,1 @@
+{"name":"korea (republic of)","short":"kr","flag":"https:\/\/flagcdn.com\/kr.svg","native":"\ub300\ud55c\ubbfc\uad6d","lang":{"short":"ko","name":"korean","native":"\ud55c\uad6d\uc5b4"},"dol":{"symb":"\u20a9","short":"krw","name":"South Korean won"}}

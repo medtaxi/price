@@ -1,0 +1,1 @@
+{"krw":{"day":{"base":6500,"kilometer":780,"hour":12000},"wal":"krw"}}

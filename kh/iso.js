@@ -1,0 +1,1 @@
+{"name":"cambodia","short":"kh","flag":"https:\/\/flagcdn.com\/kh.svg","native":"K\u00e2mp\u016dch\u00e9a","lang":{"short":"km","name":"khmer","native":"\u1781\u17d2\u1798\u17c2\u179a"},"dol":{"symb":"\u17db","short":"khr","name":"Cambodian riel"}}

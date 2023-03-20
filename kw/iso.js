@@ -1,0 +1,1 @@
+{"name":"kuwait","short":"kw","flag":"https:\/\/flagcdn.com\/kw.svg","native":"\u0627\u0644\u0643\u0648\u064a\u062a","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u062f.\u0643","short":"kwd","name":"Kuwaiti dinar"}}

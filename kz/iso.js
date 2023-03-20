@@ -1,0 +1,1 @@
+{"name":"kazakhstan","short":"kz","flag":"https:\/\/flagcdn.com\/kz.svg","native":"\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d","lang":{"short":"kk","name":"kazakh","native":"\u049b\u0430\u0437\u0430\u049b \u0442\u0456\u043b\u0456"},"dol":{"symb":"\u20b8","short":"kzt","name":"Kazakhstani tenge"}}

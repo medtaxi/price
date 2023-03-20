@@ -1,0 +1,1 @@
+{"name":"cayman islands","short":"ky","flag":"https:\/\/flagcdn.com\/ky.svg","native":"Cayman Islands","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"kyd","name":"Cayman Islands dollar"}}

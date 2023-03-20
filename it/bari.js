@@ -1,0 +1,1 @@
+{"eur":{"baseKm":2,"day":{"base":5,"kilometer":1,"hour":25,"miMa":[{"pr":"0.8","min":"1","max":"2"}],"each":1.1000000000000001},"night":{"base":"5","miMa":[{"pr":"0.8","min":"1","max":"2"}],"each":"1.10","hour":"20"}}}

@@ -1,0 +1,1 @@
+{"kzt":{"day":{"base":600,"kilometer":150,"hour":1500},"wal":"kzt"}}

@@ -1,0 +1,1 @@
+{"kgs":{"wal":"kgs","day":{"base":80,"kilometer":20,"hour":200}}}

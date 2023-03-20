@@ -1,0 +1,1 @@
+{"name":"italy","short":"it","flag":"https:\/\/flagcdn.com\/it.svg","native":"Italia","lang":{"short":"it","name":"italian","native":"Italiano"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

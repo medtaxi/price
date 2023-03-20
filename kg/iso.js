@@ -1,0 +1,1 @@
+{"name":"kyrgyzstan","short":"kg","flag":"https:\/\/flagcdn.com\/kg.svg","native":"\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d","lang":{"short":"ky","name":"kyrgyz","native":"\u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430"},"dol":{"symb":"\u0441","short":"kgs","name":"Kyrgyzstani som"}}
