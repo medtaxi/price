@@ -1,0 +1,1 @@
+{"name":"seychelles","short":"sc","flag":"https:\/\/flagcdn.com\/sc.svg","native":"Seychelles","lang":{"short":"fr","name":"french","native":"fran\u00e7ais"},"dol":{"symb":"\u20a8","short":"scr","name":"Seychellois rupee"}}

@@ -1,0 +1,1 @@
+{"name":"somalia","short":"so","flag":"https:\/\/flagcdn.com\/so.svg","native":"Soomaaliya","lang":{"short":"so","name":"somali","native":"Soomaaliga"},"dol":{"symb":"sh","short":"sos","name":"Somali shilling"}}

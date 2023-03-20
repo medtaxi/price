@@ -1,0 +1,1 @@
+{"xof":{"wal":"xof","day":{"base":1500,"kilometer":1500,"hour":8000}}}

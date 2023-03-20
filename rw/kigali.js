@@ -1,0 +1,1 @@
+{"rwf":{"day":{"base":3000,"kilometer":1000,"hour":10000},"wal":"rwf"}}

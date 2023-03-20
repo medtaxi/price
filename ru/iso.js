@@ -1,0 +1,1 @@
+{"name":"russian federation","short":"ru","flag":"https:\/\/flagcdn.com\/ru.svg","native":"\u0420\u043e\u0441\u0441\u0438\u044f","lang":{"short":"ru","name":"russian","native":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439"},"dol":{"symb":"\u20bd","short":"rub","name":"Russian ruble"}}

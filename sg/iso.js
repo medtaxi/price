@@ -1,0 +1,1 @@
+{"name":"singapore","short":"sg","flag":"https:\/\/flagcdn.com\/sg.svg","native":"Singapore","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"sgd","name":"Singapore dollar"}}

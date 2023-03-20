@@ -1,0 +1,1 @@
+{"name":"romania","short":"ro","flag":"https:\/\/flagcdn.com\/ro.svg","native":"Rom\u00e2nia","lang":{"short":"ro","name":"romanian","native":"Rom\u00e2n\u0103"},"dol":{"symb":"lei","short":"ron","name":"Romanian leu"}}

@@ -1,0 +1,1 @@
+{"name":"saudi arabia","short":"sa","flag":"https:\/\/flagcdn.com\/sa.svg","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u0631.\u0633","short":"sar","name":"Saudi riyal"}}

@@ -1,0 +1,1 @@
+{"name":"sudan","short":"sd","flag":"https:\/\/flagcdn.com\/sd.svg","native":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u062c.\u0633.","short":"sdg","name":"Sudanese pound"}}

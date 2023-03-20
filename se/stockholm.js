@@ -1,0 +1,1 @@
+{"sek":{"day":{"base":50,"kilometer":20.050000000000001,"hour":510},"night":{"base":"45","kilometer":"13.6","hour":"575"}}}

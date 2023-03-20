@@ -1,0 +1,1 @@
+{"name":"slovakia","short":"sk","flag":"https:\/\/flagcdn.com\/sk.svg","native":"Slovensko","lang":{"short":"sk","name":"slovak","native":"sloven\u010dina"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

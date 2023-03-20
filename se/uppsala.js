@@ -1,0 +1,1 @@
+{"sek":{"day":{"base":82,"kilometer":24,"hour":290},"wal":"sek"}}

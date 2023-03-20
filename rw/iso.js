@@ -1,0 +1,1 @@
+{"name":"rwanda","short":"rw","flag":"https:\/\/flagcdn.com\/rw.svg","native":"Rwanda","lang":{"short":"rw","name":"kinyarwanda","native":"Ikinyarwanda"},"dol":{"symb":"fr","short":"rwf","name":"Rwandan franc"}}

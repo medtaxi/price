@@ -1,0 +1,1 @@
+{"sgd":{"baseKm":1,"day":{"base":4.0199999999999996,"kilometer":0.84999999999999998,"hour":10.35},"night":{"base":"4.5","kilometer":"0.78","hour":"0.78"}}}

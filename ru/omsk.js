@@ -1,0 +1,1 @@
+{"rub":{"day":{"base":79,"kilometer":6.5,"hour":300},"wal":"rub"}}

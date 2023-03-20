@@ -1,0 +1,1 @@
+{"name":"senegal","short":"sn","flag":"https:\/\/flagcdn.com\/sn.svg","native":"S\u00e9n\u00e9gal","lang":{"short":"fr","name":"french","native":"fran\u00e7ais"},"dol":{"symb":"fr","short":"xof","name":"West African CFA franc"}}

@@ -1,0 +1,1 @@
+{"name":"sweden","short":"se","flag":"https:\/\/flagcdn.com\/se.svg","native":"Sverige","lang":{"short":"sv","name":"swedish","native":"svenska"},"dol":{"symb":"kr","short":"sek","name":"Swedish krona"}}

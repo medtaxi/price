@@ -1,0 +1,1 @@
+{"sar":{"day":{"base":10,"kilometer":10,"hour":25},"wal":"sar"}}
