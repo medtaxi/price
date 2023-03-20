@@ -1,0 +1,1 @@
+{"xaf":{"wal":"xaf","day":{"base":250,"kilometer":300,"hour":2500}}}

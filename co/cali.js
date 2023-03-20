@@ -1,0 +1,1 @@
+{"cop":{"day":{"base":5000,"kilometer":7000,"hour":22000},"wal":"cop"}}

@@ -1,0 +1,1 @@
+{"name":"cameroon","short":"cm","flag":"https:\/\/flagcdn.com\/cm.svg","native":"Cameroon","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"fr","short":"xaf","name":"Central African CFA franc"}}

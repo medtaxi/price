@@ -1,0 +1,1 @@
+{"cny":{"baseKm":2,"day":{"base":11,"kilometer":2.6000000000000001,"hour":40}}}

@@ -1,0 +1,1 @@
+{"cny":{"baseKm":3,"day":{"base":14.5,"kilometer":3,"hour":52.5,"miMa":[{"pr":"2.5","min":"1","max":"12"}],"each":3.6000000000000001},"night":{"base":"18","miMa":[{"pr":"3.1","min":"1","max":"12"}],"each":"4.70","hour":"37.2"}}}

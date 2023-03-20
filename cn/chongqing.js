@@ -1,0 +1,1 @@
+{"cny":{"day":{"base":10,"kilometer":2.5,"hour":19.199999999999999},"wal":"cny"}}

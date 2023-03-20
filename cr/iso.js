@@ -1,0 +1,1 @@
+{"name":"costa rica","short":"cr","flag":"https:\/\/flagcdn.com\/cr.svg","native":"Costa Rica","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"\u20a1","short":"crc","name":"Costa Rican col\u00f3n"}}

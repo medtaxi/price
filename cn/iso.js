@@ -1,0 +1,1 @@
+{"name":"china","short":"cn","flag":"https:\/\/flagcdn.com\/cn.svg","native":"\u4e2d\u56fd","lang":{"short":"zh","name":"chinese","native":"\u4e2d\u6587 (Zh\u014dngw\u00e9n)"},"dol":{"symb":"\u00a5","short":"cny","name":"Chinese yuan"}}
