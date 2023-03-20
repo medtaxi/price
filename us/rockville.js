@@ -1,0 +1,1 @@
+{"usd":{"day":{"base":5,"kilometer":1.6799999999999999,"hour":15},"wal":"usd"}}
