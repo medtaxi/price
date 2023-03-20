@@ -1,0 +1,1 @@
+{"inr":{"day":{"base":100,"kilometer":30,"hour":60},"wal":"inr"}}

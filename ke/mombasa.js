@@ -1,0 +1,1 @@
+{"kes":{"day":{"base":200,"kilometer":200,"hour":240},"baseKm":"1","wal":"kes"}}

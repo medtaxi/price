@@ -1,0 +1,1 @@
+{"name":"iraq","short":"iq","flag":"https:\/\/flagcdn.com\/iq.svg","native":"\u0627\u0644\u0639\u0631\u0627\u0642","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u0639.\u062f","short":"iqd","name":"Iraqi dinar"}}

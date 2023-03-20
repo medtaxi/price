@@ -1,0 +1,1 @@
+{"jmd":{"day":{"base":300,"kilometer":450,"hour":1000},"wal":"jmd"}}

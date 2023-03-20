@@ -1,0 +1,1 @@
+{"inr":{"baseKm":8,"day":{"base":100,"kilometer":19,"hour":115}}}

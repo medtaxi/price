@@ -1,0 +1,1 @@
+{"name":"india","short":"in","flag":"https:\/\/flagcdn.com\/in.svg","native":"\u092d\u093e\u0930\u0924","lang":{"short":"hi","name":"hindi","native":"\u0939\u093f\u0928\u094d\u0926\u0940"},"dol":{"symb":"\u20b9","short":"inr","name":"Indian rupee"}}

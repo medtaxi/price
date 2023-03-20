@@ -1,0 +1,1 @@
+{"name":"jamaica","short":"jm","flag":"https:\/\/flagcdn.com\/jm.svg","native":"Jamaica","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"jmd","name":"Jamaican dollar"}}

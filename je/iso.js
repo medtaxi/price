@@ -1,0 +1,1 @@
+{"name":"jersey","short":"je","flag":"https:\/\/flagcdn.com\/je.svg","native":"Jersey","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"\u00a3","short":"gbp","name":"British pound"}}

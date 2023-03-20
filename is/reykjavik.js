@@ -1,0 +1,1 @@
+{"isk":{"day":{"base":730,"kilometer":414,"hour":8667},"wal":"isk"}}

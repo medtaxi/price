@@ -1,0 +1,1 @@
+{"jod":{"wal":"jod","day":{"base":0.34999999999999998,"kilometer":0.75,"hour":5}}}
