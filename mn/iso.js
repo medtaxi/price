@@ -1,0 +1,1 @@
+{"name":"mongolia","short":"mn","flag":"https:\/\/flagcdn.com\/mn.svg","native":"\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441","lang":{"short":"mn","name":"mongolian","native":"\u041c\u043e\u043d\u0433\u043e\u043b \u0445\u044d\u043b"},"dol":{"symb":"\u20ae","short":"mnt","name":"Mongolian t\u00f6gr\u00f6g"}}

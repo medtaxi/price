@@ -1,0 +1,1 @@
+{"name":"lebanon","short":"lb","flag":"https:\/\/flagcdn.com\/lb.svg","native":"\u0644\u0628\u0646\u0627\u0646","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u0644.\u0644","short":"lbp","name":"Lebanese pound"}}

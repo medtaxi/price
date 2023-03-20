@@ -1,0 +1,1 @@
+{"name":"malta","short":"mt","flag":"https:\/\/flagcdn.com\/mt.svg","native":"Malta","lang":{"short":"mt","name":"maltese","native":"Malti"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

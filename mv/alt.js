@@ -1,0 +1,1 @@
+{"mvr":{"wal":"mvr","day":{"base":25,"kilometer":25,"hour":125}}}

@@ -1,0 +1,1 @@
+{"name":"maldives","short":"mv","flag":"https:\/\/flagcdn.com\/mv.svg","native":"Maldives","lang":{"short":"dv","name":"divehi","native":"\u078b\u07a8\u0788\u07ac\u0780\u07a8"},"dol":{"symb":".\u0783","short":"mvr","name":"Maldivian rufiyaa"}}

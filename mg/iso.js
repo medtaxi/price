@@ -1,0 +1,1 @@
+{"name":"madagascar","short":"mg","flag":"https:\/\/flagcdn.com\/mg.svg","native":"Madagasikara","lang":{"short":"fr","name":"french","native":"fran\u00e7ais"},"dol":{"symb":"ar","short":"mga","name":"Malagasy ariary"}}

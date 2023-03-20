@@ -1,0 +1,1 @@
+{"eur":{"day":{"base":1,"kilometer":1,"hour":10},"wal":"eur"}}

@@ -1,0 +1,1 @@
+{"mdl":{"day":{"base":30,"kilometer":4.9299999999999997,"hour":60},"wal":"mdl"}}

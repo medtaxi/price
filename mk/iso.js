@@ -1,0 +1,1 @@
+{"name":"north macedonia","short":"mk","flag":"https:\/\/flagcdn.com\/mk.svg","native":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430","lang":{"short":"mk","name":"macedonian","native":"\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u0458\u0430\u0437\u0438\u043a"},"dol":{"symb":"\u0434\u0435\u043d","short":"mkd","name":"Macedonian denar"}}

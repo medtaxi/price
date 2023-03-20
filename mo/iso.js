@@ -1,0 +1,1 @@
+{"name":"macao","short":"mo","flag":"https:\/\/flagcdn.com\/mo.svg","native":"\u6fb3\u9580","lang":{"short":"zh","name":"chinese","native":"\u4e2d\u6587 (Zh\u014dngw\u00e9n)"},"dol":{"symb":"p","short":"mop","name":"Macanese pataca"}}

@@ -1,0 +1,1 @@
+{"name":"moldova (republic of)","short":"md","flag":"https:\/\/flagcdn.com\/md.svg","native":"Moldova","lang":{"short":"ro","name":"romanian","native":"Rom\u00e2n\u0103"},"dol":{"symb":"l","short":"mdl","name":"Moldovan leu"}}

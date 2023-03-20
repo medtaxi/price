@@ -1,0 +1,1 @@
+{"lkr":{"wal":"lkr","day":{"base":100,"kilometer":100,"hour":180}}}

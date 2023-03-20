@@ -1,0 +1,1 @@
+{"name":"sri lanka","short":"lk","flag":"https:\/\/flagcdn.com\/lk.svg","native":"\u015br\u012b la\u1e43k\u0101va","lang":{"short":"si","name":"sinhalese","native":"\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"},"dol":{"symb":"rs","short":"lkr","name":"Sri Lankan rupee"}}

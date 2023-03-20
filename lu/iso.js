@@ -1,0 +1,1 @@
+{"name":"luxembourg","short":"lu","flag":"https:\/\/flagcdn.com\/lu.svg","native":"L\u00ebtzebuerg","lang":{"short":"fr","name":"french","native":"fran\u00e7ais"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

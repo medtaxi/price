@@ -1,0 +1,1 @@
+{"name":"monaco","short":"mc","flag":"https:\/\/flagcdn.com\/mc.svg","native":"Monaco","lang":{"short":"fr","name":"french","native":"fran\u00e7ais"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

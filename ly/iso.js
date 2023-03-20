@@ -1,0 +1,1 @@
+{"name":"libya","short":"ly","flag":"https:\/\/flagcdn.com\/ly.svg","native":"\u200f\u0644\u064a\u0628\u064a\u0627","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u0644.\u062f","short":"lyd","name":"Libyan dinar"}}

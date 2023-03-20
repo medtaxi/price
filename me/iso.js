@@ -1,0 +1,1 @@
+{"name":"montenegro","short":"me","flag":"https:\/\/flagcdn.com\/me.svg","native":"\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430","lang":{"short":"sr","name":"serbian","native":"\u0441\u0440\u043f\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

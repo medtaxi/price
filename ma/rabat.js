@@ -1,0 +1,1 @@
+{"mad":{"day":{"base":5.54,"kilometer":8.5,"hour":40},"wal":"mad"}}

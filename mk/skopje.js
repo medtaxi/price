@@ -1,0 +1,1 @@
+{"mkd":{"day":{"base":50,"kilometer":35,"hour":350},"wal":"mkd"}}

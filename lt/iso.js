@@ -1,0 +1,1 @@
+{"name":"lithuania","short":"lt","flag":"https:\/\/flagcdn.com\/lt.svg","native":"Lietuva","lang":{"short":"lt","name":"lithuanian","native":"lietuvi\u0173 kalba"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

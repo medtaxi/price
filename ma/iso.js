@@ -1,0 +1,1 @@
+{"name":"morocco","short":"ma","flag":"https:\/\/flagcdn.com\/ma.svg","native":"\u0627\u0644\u0645\u063a\u0631\u0628","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u062f.\u0645.","short":"mad","name":"Moroccan dirham"}}

@@ -1,0 +1,1 @@
+{"name":"latvia","short":"lv","flag":"https:\/\/flagcdn.com\/lv.svg","native":"Latvija","lang":{"short":"lv","name":"latvian","native":"latvie\u0161u valoda"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

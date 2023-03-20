@@ -1,0 +1,1 @@
+{"name":"myanmar","short":"mm","flag":"https:\/\/flagcdn.com\/mm.svg","native":"Myanma","lang":{"short":"my","name":"burmese","native":"\u1017\u1019\u102c\u1005\u102c"},"dol":{"symb":"ks","short":"mmk","name":"Burmese kyat"}}
