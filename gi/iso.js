@@ -1,0 +1,1 @@
+{"name":"gibraltar","short":"gi","flag":"https:\/\/flagcdn.com\/gi.svg","native":"Gibraltar","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"\u00a3","short":"gip","name":"Gibraltar pound"}}

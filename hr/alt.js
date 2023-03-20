@@ -1,0 +1,1 @@
+{"eur":{"wal":"eur","day":{"base":3.0099999999999998,"kilometer":0.78000000000000003,"hour":7.4699999999999998}},"hrk":{"wal":"hrk","day":{"base":20,"miMa":[{"max":6,"min":1,"pr":14},{"max":11,"min":7,"pr":20}],"each":14,"hour":120,"kilometer":6}}}

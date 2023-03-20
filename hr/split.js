@@ -1,0 +1,1 @@
+{"hrk":{"day":{"base":"25","miMa":[{"pr":"14","min":"1","max":"6"},{"pr":"20","min":"7","max":"11"}],"each":"14.00","hour":"200"},"wal":"hrk"},"eur":{"day":{"base":"2.64","kilometer":"0.99","hour":"10.48"},"wal":"eur"}}

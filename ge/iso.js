@@ -1,0 +1,1 @@
+{"name":"georgia","short":"ge","flag":"https:\/\/flagcdn.com\/ge.svg","native":"\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd","lang":{"short":"ka","name":"georgian","native":"\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"},"dol":{"symb":"\u10da","short":"gel","name":"Georgian Lari"}}

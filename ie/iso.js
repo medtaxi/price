@@ -1,0 +1,1 @@
+{"name":"ireland","short":"ie","flag":"https:\/\/flagcdn.com\/ie.svg","native":"\u00c9ire","lang":{"short":"ga","name":"irish","native":"Gaeilge"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

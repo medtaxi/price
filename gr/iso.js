@@ -1,0 +1,1 @@
+{"name":"greece","short":"gr","flag":"https:\/\/flagcdn.com\/gr.svg","native":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1","lang":{"short":"el","name":"greek (modern)","native":"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

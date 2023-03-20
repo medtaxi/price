@@ -1,0 +1,1 @@
+{"hkd":{"baseKm":2,"day":{"base":25.5,"kilometer":9.5,"hour":93,"miMa":[{"pr":"8.5","min":"1","max":"7"}],"each":6}}}

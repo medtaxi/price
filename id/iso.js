@@ -1,0 +1,1 @@
+{"name":"indonesia","short":"id","flag":"https:\/\/flagcdn.com\/id.svg","native":"Indonesia","lang":{"short":"id","name":"indonesian","native":"Bahasa Indonesia"},"dol":{"symb":"rp","short":"idr","name":"Indonesian rupiah"}}

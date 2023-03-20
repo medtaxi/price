@@ -1,0 +1,1 @@
+{"hrk":{"day":{"base":"15","kilometer":"6","hour":"40"},"wal":"hrk"},"eur":{"day":{"base":"1.99","kilometer":"0.79","hour":"6.63"},"wal":"eur"}}

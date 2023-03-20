@@ -1,0 +1,1 @@
+{"name":"hong kong","short":"hk","flag":"https:\/\/flagcdn.com\/hk.svg","native":"\u9999\u6e2f","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"hkd","name":"Hong Kong dollar"}}

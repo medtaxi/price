@@ -1,0 +1,1 @@
+{"idr":{"wal":"idr","day":{"base":11875,"kilometer":6625,"hour":49375}}}

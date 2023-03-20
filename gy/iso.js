@@ -1,0 +1,1 @@
+{"name":"guyana","short":"gy","flag":"https:\/\/flagcdn.com\/gy.svg","native":"Guyana","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"gyd","name":"Guyanese dollar"}}

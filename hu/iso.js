@@ -1,0 +1,1 @@
+{"name":"hungary","short":"hu","flag":"https:\/\/flagcdn.com\/hu.svg","native":"Magyarorsz\u00e1g","lang":{"short":"hu","name":"hungarian","native":"magyar"},"dol":{"symb":"ft","short":"huf","name":"Hungarian forint"}}

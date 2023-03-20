@@ -1,0 +1,1 @@
+{"gel":{"day":{"base":2,"kilometer":1,"hour":10},"wal":"gel"}}

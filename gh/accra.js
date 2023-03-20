@@ -1,0 +1,1 @@
+{"ghs":{"day":{"base":10,"kilometer":10,"hour":40},"wal":"ghs"}}

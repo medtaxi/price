@@ -1,0 +1,1 @@
+{"name":"croatia","short":"hr","flag":"https:\/\/flagcdn.com\/hr.svg","native":"Hrvatska","lang":{"short":"hr","name":"croatian","native":"hrvatski jezik"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

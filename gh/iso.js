@@ -1,0 +1,1 @@
+{"name":"ghana","short":"gh","flag":"https:\/\/flagcdn.com\/gh.svg","native":"Ghana","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"\u20b5","short":"ghs","name":"Ghanaian cedi"}}

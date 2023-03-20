@@ -1,0 +1,1 @@
+{"gtq":{"wal":"gtq","day":{"base":27.5,"kilometer":5,"hour":107.5}}}

@@ -1,0 +1,1 @@
+{"huf":{"day":{"base":600,"kilometer":470,"hour":3900},"wal":"huf"}}

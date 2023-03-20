@@ -1,0 +1,1 @@
+{"name":"guatemala","short":"gt","flag":"https:\/\/flagcdn.com\/gt.svg","native":"Guatemala","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"q","short":"gtq","name":"Guatemalan quetzal"}}

@@ -1,0 +1,1 @@
+{"gyd":{"wal":"gyd","day":{"base":500,"kilometer":500,"hour":1950}}}
