@@ -1,0 +1,1 @@
+{"qar":{"day":{"base":10,"kilometer":1.6000000000000001,"hour":16},"wal":"qar"}}

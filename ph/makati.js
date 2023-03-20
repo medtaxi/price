@@ -1,0 +1,1 @@
+{"php":{"day":{"base":45,"kilometer":22.5,"hour":200},"wal":"php"}}

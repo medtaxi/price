@@ -1,0 +1,1 @@
+{"ils":{"wal":"ils","day":{"base":7.5,"kilometer":4.0199999999999996,"hour":35}}}

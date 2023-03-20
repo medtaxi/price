@@ -1,0 +1,1 @@
+{"name":"palestine, state of","short":"ps","flag":"https:\/\/flagcdn.com\/ps.svg","native":"\u0641\u0644\u0633\u0637\u064a\u0646","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"e\u00a3","short":"egp","name":"Egyptian pound"}}

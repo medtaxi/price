@@ -1,0 +1,1 @@
+{"name":"pakistan","short":"pk","flag":"https:\/\/flagcdn.com\/pk.svg","native":"Pakistan","lang":{"short":"ur","name":"urdu","native":"\u0627\u0631\u062f\u0648"},"dol":{"symb":"\u20a8","short":"pkr","name":"Pakistani rupee"}}

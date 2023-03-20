@@ -1,0 +1,1 @@
+{"name":"serbia","short":"rs","flag":"https:\/\/flagcdn.com\/rs.svg","native":"\u0421\u0440\u0431\u0438\u0458\u0430","lang":{"short":"sr","name":"serbian","native":"\u0441\u0440\u043f\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a"},"dol":{"symb":"\u0434\u0438\u043d.","short":"rsd","name":"Serbian dinar"}}

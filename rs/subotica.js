@@ -1,0 +1,1 @@
+{"esd":{"day":{"base":120,"kilometer":82.5,"hour":800},"wal":"esd"}}

@@ -1,0 +1,1 @@
+{"pln":{"day":{"base":8,"kilometer":3,"hour":40},"wal":"pln"}}

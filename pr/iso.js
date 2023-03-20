@@ -1,0 +1,1 @@
+{"name":"puerto rico","short":"pr","flag":"https:\/\/flagcdn.com\/pr.svg","native":"Puerto Rico","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"usd","name":"United States dollar"}}

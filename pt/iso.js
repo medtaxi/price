@@ -1,0 +1,1 @@
+{"name":"portugal","short":"pt","flag":"https:\/\/flagcdn.com\/pt.svg","native":"Portugal","lang":{"short":"pt","name":"portuguese","native":"Portugu\u00eas"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

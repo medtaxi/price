@@ -1,0 +1,1 @@
+{"okr":{"day":{"base":150,"kilometer":40,"hour":300},"wal":"okr"}}

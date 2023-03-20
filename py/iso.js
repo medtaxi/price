@@ -1,0 +1,1 @@
+{"name":"paraguay","short":"py","flag":"https:\/\/flagcdn.com\/py.svg","native":"Paraguay","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"\u20b2","short":"pyg","name":"Paraguayan guaran\u00ed"}}

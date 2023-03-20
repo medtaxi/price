@@ -1,0 +1,1 @@
+{"name":"philippines","short":"ph","flag":"https:\/\/flagcdn.com\/ph.svg","native":"Pilipinas","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"\u20b1","short":"php","name":"Philippine peso"}}

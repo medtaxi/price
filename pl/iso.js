@@ -1,0 +1,1 @@
+{"name":"poland","short":"pl","flag":"https:\/\/flagcdn.com\/pl.svg","native":"Polska","lang":{"short":"pl","name":"polish","native":"j\u0119zyk polski"},"dol":{"symb":"z\u0142","short":"pln","name":"Polish z\u0142oty"}}

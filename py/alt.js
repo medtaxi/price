@@ -1,0 +1,1 @@
+{"pyg":{"wal":"pyg","day":{"base":6300,"kilometer":10000,"hour":50000}}}

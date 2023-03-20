@@ -1,0 +1,1 @@
+{"name":"qatar","short":"qa","flag":"https:\/\/flagcdn.com\/qa.svg","native":"\u0642\u0637\u0631","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u0631.\u0642","short":"qar","name":"Qatari riyal"}}
