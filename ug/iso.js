@@ -1,0 +1,1 @@
+{"name":"uganda","short":"ug","flag":"https:\/\/flagcdn.com\/ug.svg","native":"Uganda","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"sh","short":"ugx","name":"Ugandan shilling"}}

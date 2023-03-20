@@ -1,0 +1,1 @@
+{"name":"uruguay","short":"uy","flag":"https:\/\/flagcdn.com\/uy.svg","native":"Uruguay","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"uyu","name":"Uruguayan peso"}}

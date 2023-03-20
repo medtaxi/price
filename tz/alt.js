@@ -1,0 +1,1 @@
+{"tzs":{"wal":"tzs","day":{"base":4000,"kilometer":4000,"hour":17500}}}

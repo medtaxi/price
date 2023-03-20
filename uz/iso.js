@@ -1,0 +1,1 @@
+{"name":"uzbekistan","short":"uz","flag":"https:\/\/flagcdn.com\/uz.svg","native":"O\u2018zbekiston","lang":{"short":"uz","name":"uzbek","native":"O\u02bbzbek"},"dol":{"symb":"so'm","short":"uzs","name":"Uzbekistani so'm"}}

@@ -1,0 +1,1 @@
+{"name":"taiwan","short":"tw","flag":"https:\/\/flagcdn.com\/tw.svg","native":"\u81fa\u7063","lang":{"short":"zh","name":"chinese","native":"\u4e2d\u6587 (Zh\u014dngw\u00e9n)"},"dol":{"symb":"$","short":"twd","name":"New Taiwan dollar"}}

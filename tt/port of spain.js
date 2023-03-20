@@ -1,0 +1,1 @@
+{"ttd":{"day":{"base":8,"kilometer":8.5,"hour":100},"wal":"ttd"}}

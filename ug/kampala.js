@@ -1,0 +1,1 @@
+{"ugx":{"baseKm":1,"day":{"base":3500,"kilometer":2250,"hour":8000}}}

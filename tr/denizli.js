@@ -1,0 +1,1 @@
+{"try":{"day":{"base":15,"kilometer":4.5,"hour":60},"wal":"try"}}

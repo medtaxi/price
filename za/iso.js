@@ -1,0 +1,1 @@
+{"name":"south africa","short":"za","flag":"https:\/\/flagcdn.com\/za.svg","native":"South Africa","lang":{"short":"af","name":"afrikaans","native":"Afrikaans"},"dol":{"symb":"r","short":"zar","name":"South African rand"}}

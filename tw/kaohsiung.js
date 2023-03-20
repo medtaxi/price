@@ -1,0 +1,1 @@
+{"twd":{"day":{"base":82.5,"kilometer":25,"hour":140},"wal":"twd"}}

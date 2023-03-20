@@ -1,0 +1,1 @@
+{"uyu":{"day":{"base":65,"kilometer":100,"hour":450},"wal":"uyu"}}

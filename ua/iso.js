@@ -1,0 +1,1 @@
+{"name":"ukraine","short":"ua","flag":"https:\/\/flagcdn.com\/ua.svg","native":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430","lang":{"short":"uk","name":"ukrainian","native":"\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"},"dol":{"symb":"\u20b4","short":"uah","name":"Ukrainian hryvnia"}}

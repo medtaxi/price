@@ -1,0 +1,1 @@
+{"name":"tanzania, united republic of","short":"tz","flag":"https:\/\/flagcdn.com\/tz.svg","native":"Tanzania","lang":{"short":"sw","name":"swahili","native":"Kiswahili"},"dol":{"symb":"sh","short":"tzs","name":"Tanzanian shilling"}}

@@ -1,0 +1,1 @@
+{"name":"venezuela (bolivarian republic of)","short":"ve","flag":"https:\/\/flagcdn.com\/ve.svg","native":"Venezuela","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"bs s","short":"vef","name":"Venezuelan bol\u00edvar"}}

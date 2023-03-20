@@ -1,0 +1,1 @@
+{"name":"vietnam","short":"vn","flag":"https:\/\/flagcdn.com\/vn.svg","native":"Vi\u1ec7t Nam","lang":{"short":"vi","name":"vietnamese","native":"Ti\u1ebfng Vi\u1ec7t"},"dol":{"symb":"\u20ab","short":"vnd","name":"Vietnamese \u0111\u1ed3ng"}}

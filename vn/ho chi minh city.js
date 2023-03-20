@@ -1,0 +1,1 @@
+{"vnd":{"day":{"base":13500,"kilometer":14250,"hour":40000}}}

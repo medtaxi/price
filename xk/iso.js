@@ -1,0 +1,1 @@
+{"name":"republic of kosovo","short":"xk","flag":"https:\/\/flagcdn.com\/xk.svg","native":"Republika e Kosov\u00ebs","lang":{"short":"sq","name":"albanian","native":"Shqip"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

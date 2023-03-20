@@ -1,0 +1,1 @@
+{"name":"trinidad and tobago","short":"tt","flag":"https:\/\/flagcdn.com\/tt.svg","native":"Trinidad and Tobago","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"ttd","name":"Trinidad and Tobago dollar"}}

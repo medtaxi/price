@@ -1,0 +1,1 @@
+{"zar":{"day":{"base":20,"kilometer":10,"hour":48},"wal":"zar"}}

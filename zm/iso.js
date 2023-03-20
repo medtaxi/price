@@ -1,0 +1,1 @@
+{"name":"zambia","short":"zm","flag":"https:\/\/flagcdn.com\/zm.svg","native":"Zambia","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"zk","short":"zmw","name":"Zambian kwacha"}}

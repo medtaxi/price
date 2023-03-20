@@ -1,0 +1,1 @@
+{"uah":{"day":{"base":50,"kilometer":8,"hour":120},"wal":"uah"}}

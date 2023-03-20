@@ -1,0 +1,1 @@
+{"name":"turkey","short":"tr","flag":"https:\/\/flagcdn.com\/tr.svg","native":"T\u00fcrkiye","lang":{"short":"tr","name":"turkish","native":"T\u00fcrk\u00e7e"},"dol":{"symb":"\u20ba","short":"try","name":"Turkish lira"}}

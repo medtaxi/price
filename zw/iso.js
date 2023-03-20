@@ -1,0 +1,1 @@
+{"name":"zimbabwe","short":"zw","flag":"https:\/\/flagcdn.com\/zw.svg","native":"Zimbabwe","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"k","short":"zmw","name":"Zambian kwacha"}}
