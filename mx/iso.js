@@ -1,0 +1,1 @@
+{"name":"mexico","short":"mx","flag":"https:\/\/flagcdn.com\/mx.svg","native":"M\u00e9xico","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"mxn","name":"Mexican peso"}}

@@ -1,0 +1,1 @@
+{"myr":{"baseKm":1,"day":{"base":4,"kilometer":3.1200000000000001,"hour":8.1199999999999992},"night":{"base":"4.5","kilometer":"1.88","hour":"1.88"}}}

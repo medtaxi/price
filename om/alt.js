@@ -1,0 +1,1 @@
+{"omr":{"wal":"omr","day":{"base":2,"kilometer":0.29999999999999999,"hour":5}}}

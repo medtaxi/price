@@ -1,0 +1,1 @@
+{"ngn":{"day":{"base":500,"kilometer":300,"hour":3000},"wal":"ngn"}}

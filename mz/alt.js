@@ -1,0 +1,1 @@
+{"mzn":{"wal":"mzn","day":{"base":225,"kilometer":250,"hour":1570}}}

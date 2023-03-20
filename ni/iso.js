@@ -1,0 +1,1 @@
+{"name":"nicaragua","short":"ni","flag":"https:\/\/flagcdn.com\/ni.svg","native":"Nicaragua","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"c$","short":"nio","name":"Nicaraguan c\u00f3rdoba"}}

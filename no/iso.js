@@ -1,0 +1,1 @@
+{"name":"norway","short":"no","flag":"https:\/\/flagcdn.com\/no.svg","native":"Norge","lang":{"short":"no","name":"norwegian","native":"Norsk"},"dol":{"symb":"kr","short":"nok","name":"Norwegian krone"}}

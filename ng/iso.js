@@ -1,0 +1,1 @@
+{"name":"nigeria","short":"ng","flag":"https:\/\/flagcdn.com\/ng.svg","native":"Nigeria","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"\u20a6","short":"ngn","name":"Nigerian naira"}}

@@ -1,0 +1,1 @@
+{"name":"oman","short":"om","flag":"https:\/\/flagcdn.com\/om.svg","native":"\u0639\u0645\u0627\u0646","lang":{"short":"ar","name":"arabic","native":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"},"dol":{"symb":"\u0631.\u0639.","short":"omr","name":"Omani rial"}}

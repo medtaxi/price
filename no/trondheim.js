@@ -1,0 +1,1 @@
+{"nok":{"day":{"base":145,"kilometer":25,"hour":900},"wal":"nok"}}

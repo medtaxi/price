@@ -1,0 +1,1 @@
+{"nzd":{"day":{"base":3.5,"kilometer":3.5,"hour":80},"wal":"nzd"}}

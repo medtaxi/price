@@ -1,0 +1,1 @@
+{"name":"new zealand","short":"nz","flag":"https:\/\/flagcdn.com\/nz.svg","native":"New Zealand","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"nzd","name":"New Zealand dollar"}}

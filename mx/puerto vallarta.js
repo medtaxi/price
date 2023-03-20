@@ -1,0 +1,1 @@
+{"mxn":{"day":{"base":50,"kilometer":50,"hour":200},"wal":"mxn"}}

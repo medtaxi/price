@@ -1,0 +1,1 @@
+{"myr":{"day":{"base":3,"kilometer":1.3799999999999999,"hour":26.75},"wal":"myr"}}

@@ -1,0 +1,1 @@
+{"name":"namibia","short":"na","flag":"https:\/\/flagcdn.com\/na.svg","native":"Namibia","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"nad","name":"Namibian dollar"}}

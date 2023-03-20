@@ -1,0 +1,1 @@
+{"name":"panama","short":"pa","flag":"https:\/\/flagcdn.com\/pa.svg","native":"Panam\u00e1","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"b\/.","short":"pab","name":"Panamanian balboa"}}

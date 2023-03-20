@@ -1,0 +1,1 @@
+{"name":"malaysia","short":"my","flag":"https:\/\/flagcdn.com\/my.svg","native":"Malaysia","lang":{"short":"ms","name":"malaysian","native":"\u0628\u0647\u0627\u0633 \u0645\u0644\u064a\u0633\u064a\u0627"},"dol":{"symb":"rm","short":"myr","name":"Malaysian ringgit"}}

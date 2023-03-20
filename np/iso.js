@@ -1,0 +1,1 @@
+{"name":"nepal","short":"np","flag":"https:\/\/flagcdn.com\/np.svg","native":"\u0928\u0947\u092a\u093e\u0932","lang":{"short":"ne","name":"nepali","native":"\u0928\u0947\u092a\u093e\u0932\u0940"},"dol":{"symb":"\u20a8","short":"npr","name":"Nepalese rupee"}}

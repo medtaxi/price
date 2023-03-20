@@ -1,0 +1,1 @@
+{"name":"mozambique","short":"mz","flag":"https:\/\/flagcdn.com\/mz.svg","native":"Mo\u00e7ambique","lang":{"short":"pt","name":"portuguese","native":"Portugu\u00eas"},"dol":{"symb":"mt","short":"mzn","name":"Mozambican metical"}}

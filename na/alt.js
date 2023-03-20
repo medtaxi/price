@@ -1,0 +1,1 @@
+{"nad":{"wal":"nad","day":{"base":13,"kilometer":14,"hour":46.479999999999997}}}
