@@ -1,0 +1,1 @@
+{"name":"azerbaijan","short":"az","flag":"https:\/\/flagcdn.com\/az.svg","native":"Az\u0259rbaycan","lang":{"short":"az","name":"azerbaijani","native":"az\u0259rbaycan dili"},"dol":{"symb":"\u20bc","short":"azn","name":"Azerbaijani manat"}}

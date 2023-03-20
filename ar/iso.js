@@ -1,0 +1,1 @@
+{"name":"argentina","short":"ar","flag":"https:\/\/flagcdn.com\/ar.svg","native":"Argentina","lang":{"short":"es","name":"spanish","native":"Espa\u00f1ol"},"dol":{"symb":"$","short":"ars","name":"Argentine peso"}}

@@ -1,0 +1,1 @@
+{"name":"austria","short":"at","flag":"https:\/\/flagcdn.com\/at.svg","native":"\u00d6sterreich","lang":{"short":"de","name":"german","native":"Deutsch"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

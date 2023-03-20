@@ -1,0 +1,1 @@
+{"name":"armenia","short":"am","flag":"https:\/\/flagcdn.com\/am.svg","native":"\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576","lang":{"short":"hy","name":"armenian","native":"\u0540\u0561\u0575\u0565\u0580\u0565\u0576"},"dol":{"symb":"\u058f","short":"amd","name":"Armenian dram"}}

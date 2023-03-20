@@ -1,0 +1,1 @@
+{"name":"afghanistan","short":"af","flag":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5c\/flag_of_the_taliban.svg","native":"\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646","lang":{"short":"ps","name":"pashto","native":"\u067e\u069a\u062a\u0648"},"dol":{"symb":"\u060b","short":"afn","name":"Afghan afghani"}}

@@ -1,0 +1,1 @@
+{"name":"bosnia and herzegovina","short":"ba","flag":"https:\/\/flagcdn.com\/ba.svg","native":"Bosna i Hercegovina","lang":{"short":"bs","name":"bosnian","native":"bosanski jezik"},"dol":{"symb":"km","short":"bam","name":"Bosnia and Herzegovina convertible mark"}}

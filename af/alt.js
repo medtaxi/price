@@ -1,0 +1,1 @@
+{"afn":{"wal":"afn","day":{"base":100,"kilometer":50,"hour":200}}}

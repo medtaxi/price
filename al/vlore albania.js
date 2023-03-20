@@ -1,0 +1,1 @@
+{"all":{"day":{"base":300,"kilometer":300,"hour":1500},"wal":"all"}}

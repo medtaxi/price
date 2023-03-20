@@ -1,0 +1,1 @@
+{"name":"angola","short":"ao","flag":"https:\/\/flagcdn.com\/ao.svg","native":"Angola","lang":{"short":"pt","name":"portuguese","native":"Portugu\u00eas"},"dol":{"symb":"kz","short":"aoa","name":"Angolan kwanza"}}

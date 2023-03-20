@@ -1,0 +1,1 @@
+{"aed":{"day":{"base":8,"kilometer":4,"hour":32.5},"wal":"aed"}}

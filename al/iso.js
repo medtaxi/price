@@ -1,0 +1,1 @@
+{"name":"albania","short":"al","flag":"https:\/\/flagcdn.com\/al.svg","native":"Shqip\u00ebria","lang":{"short":"sq","name":"albanian","native":"Shqip"},"dol":{"symb":"l","short":"all","name":"Albanian lek"}}

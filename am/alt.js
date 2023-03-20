@@ -1,0 +1,1 @@
+{"amd":{"wal":"amd","day":{"base":600,"kilometer":100,"hour":1200}}}

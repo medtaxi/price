@@ -1,0 +1,1 @@
+{"bam":{"day":{"base":3,"kilometer":1,"hour":18},"wal":"bam"}}
