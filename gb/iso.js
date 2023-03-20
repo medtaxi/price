@@ -1,0 +1,1 @@
+{"name":"united kingdom of great britain and northern ireland","short":"gb","flag":"https:\/\/flagcdn.com\/gb.svg","native":"United Kingdom","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"\u00a3","short":"gbp","name":"British pound"}}

@@ -1,0 +1,1 @@
+{"fjd":{"wal":"fjd","day":{"base":2,"kilometer":1,"hour":15.4}}}

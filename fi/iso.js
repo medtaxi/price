@@ -1,0 +1,1 @@
+{"name":"finland","short":"fi","flag":"https:\/\/flagcdn.com\/fi.svg","native":"Suomi","lang":{"short":"fi","name":"finnish","native":"suomi"},"dol":{"symb":"\u20ac","short":"eur","name":"Euro"}}

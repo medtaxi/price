@@ -1,0 +1,1 @@
+{"gbp":{"baseKm":1,"day":{"base":3.6000000000000001,"kilometer":1.29,"hour":18.300000000000001},"night":{"base":"4.8","kilometer":"1.8","hour":"21.6"}}}

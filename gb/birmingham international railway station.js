@@ -1,0 +1,1 @@
+{"gbp":{"day":{"base":2.5499999999999998,"kilometer":1.24,"hour":9},"wal":"gbp"}}

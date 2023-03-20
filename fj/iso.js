@@ -1,0 +1,1 @@
+{"name":"fiji","short":"fj","flag":"https:\/\/flagcdn.com\/fj.svg","native":"Fiji","lang":{"short":"en","name":"english","native":"English"},"dol":{"symb":"$","short":"fjd","name":"Fijian dollar"}}
